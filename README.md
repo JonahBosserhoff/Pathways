@@ -1,4 +1,4 @@
-# Terminal_Decline Workflow
+# TerminalDecline Workflow
 
 This repository contains a small end-to-end example pipeline for generating mock patient data, training a classification model, computing SHAP values, and generating a summary feature importance plot.
 
