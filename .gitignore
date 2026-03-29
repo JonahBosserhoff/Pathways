@@ -1,0 +1,7 @@
+*.png
+*.ftr
+*.pkl
+
+
+__pycache__/
+*.py[cod]
